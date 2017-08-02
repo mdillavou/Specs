@@ -2,7 +2,7 @@
   s.name         = "vipaar-xmlrpc"
   s.version      = "1.0.2"
   s.summary      = "XMLRPC Library exclusively for use in the VIPAAR iOS application"
-  s.homepage     = "https://github.com/VIPAAR/ios-xmlrpc.git"
+  s.homepage     = "git@github.com/VIPAAR/ios-xmlrpc.git"
   s.license      = 'Copyright VIPAAR 2013'
   s.author       = 'Marcus Dillavou' 
   s.source       = { :git => "#{s.homepage}", :commit => "770cd79" }
