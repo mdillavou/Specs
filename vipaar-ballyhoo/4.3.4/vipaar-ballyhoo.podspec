@@ -2,7 +2,7 @@
   s.name         = "vipaar-ballyhoo"
   s.version      = "4.3.4"
   s.summary      = "Ballyhoo is a communications library exclusively for use in the VIPAAR iOS application"
-  s.homepage     = "https://github.com/VIPAAR/libballyhoo-ios.git"
+  s.homepage     = "git@github.com/VIPAAR/libballyhoo-ios.git"
   s.license      = 'Copyright VIPAAR 2017'
   s.author       = 'Marcus Dillavou' 
   s.source       = { :git => "#{s.homepage}", :tag => "#{s.version}" }
