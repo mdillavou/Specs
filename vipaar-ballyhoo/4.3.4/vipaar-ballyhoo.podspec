@@ -2,10 +2,10 @@
   s.name         = "vipaar-ballyhoo"
   s.version      = "4.3.4"
   s.summary      = "Ballyhoo is a communications library exclusively for use in the VIPAAR iOS application"
-  s.homepage     = "git@github.com:VIPAAR/libballyhoo-ios.git"
+  s.homepage     = "https://github.com/VIPAAR/libballyhoo-ios"
   s.license      = 'Copyright VIPAAR 2017'
   s.author       = 'Marcus Dillavou' 
-  s.source       = { :git => "#{s.homepage}", :tag => "#{s.version}" }
+  s.source       = { :git => "git@github.com:VIPAAR/libballyhoo-ios.git", :tag => "#{s.version}" }
   s.source_files = 'libballyhoo/**/*.{h,m}'
   s.requires_arc = true
   s.ios.dependency  'vipaar-rcl', '1.0.0'
